@@ -7,19 +7,32 @@ Mausam is a responsive Spring Boot web application that provides real-time weath
 🌍 Real-time weather data for any city
 
 🌡 Current temperature and weather condition
+
 💧 Humidity and wind speed details
+
 🌫 Air Quality Index (AQI) with status indicator
+
 📊 PM2.5 and PM10 pollution levels
+
 📍 Latitude and longitude display
+
 🌙 Dynamic day/night theme
+
 📱 Fully responsive design (mobile-friendly)
+
 ⚠ Proper error handling for invalid cities
+
 
 🛠 Tech Stack -
 
 Java 17
+
 Spring Boot
+
 WebClient (Reactive API calls)
+
 Thymeleaf
+
 Bootstrap 5
+
 WeatherAPI (External REST API)
